@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GlauciaMMFernandes
+- 👋 Hi, I’m Glaucia Maria de Mendonca Fernandes (@GlauciaMMFernandes)
 - 👀 I’m interested in machine learning in cancer discovery and treatment
 - 🌱 I’m currently learning machine learning and data image analysis in glioblastoma
 - 💞️ I’m looking to collaborate on data science analysis in health science
